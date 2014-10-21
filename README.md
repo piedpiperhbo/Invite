@@ -1,4 +1,4 @@
 Invite
 ======
 
-File an issue Here for an inv
+File an issue Here for an invite
